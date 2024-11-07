@@ -1,0 +1,3 @@
+/home/lukas-freitas/VsCode/CMakeHelloWorld/build/CMakeFiles/hello.dir
+/home/lukas-freitas/VsCode/CMakeHelloWorld/build/CMakeFiles/edit_cache.dir
+/home/lukas-freitas/VsCode/CMakeHelloWorld/build/CMakeFiles/rebuild_cache.dir
